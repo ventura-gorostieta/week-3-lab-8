@@ -23,6 +23,9 @@ Se agrega la especificación yml del swagger, el cual se puede consultar usando 
 
 [Ver Swagger-UI : E-commerce system](./lab-8-swagger-ui-apis_Ventura-Gorostieta-Valentin.yaml)
 
+> [!TIP]
+> **Primero ver y copiar el código yml que se encuentra arribita :**
+> Una vez copiado, entonces, sí, ir al siguiente enlace, sustituir el codigo de example y pegar el yml y se podrá ver el swagger entregado:
 
 [Swagger Editor](https://editor.swagger.io/)
 
