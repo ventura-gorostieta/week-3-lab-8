@@ -21,6 +21,9 @@ Document each API endpoint, specifying required parameters, possible responses, 
 
 Se agrega la especificación yml del swagger, el cual se puede consultar usando swagger-hub o swagger-editor.
 
+[Ver Swagger-UI : E-commerce system](./lab-8-swagger-ui-apis_Ventura-Gorostieta-Valentin.yaml)
+
+
 [Swagger Editor]([https://pages.github.com/](https://editor.swagger.io/))
 
 
